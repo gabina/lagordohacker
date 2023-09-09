@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello, gordohackers! Wellcome to the gordhackers world."
+title:  "Hello, gordohackers! Wellcome to the gordohackers world."
 date:   2023-09-07 17:57:56 -0300
 categories: jekyll update
 ---
